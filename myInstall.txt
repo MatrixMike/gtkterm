@@ -18,3 +18,7 @@ Mon Nov 27 16:33:36 AEDT 2017 tried to add vte - cloned source
 ====
 added cppcheck for verification of code in Geany
 also vte added 
+====
+to restart from where I left off : ls -lctrh to show recently created folders
+:re configure epoxy to standard location (a.o.t. default)
+
