@@ -8,4 +8,13 @@ ls -lctrh
 ./autogen.sh 
 ls -lctrh
 ./autogen.sh 
-
+====
+configure.ac:18: the top level
+configure.ac:3: warning: AM_INIT_AUTOMAKE: two- and three-arguments forms are deprecated.  For more info, see:
+configure.ac:3: http://www.gnu.org/software/automake/manual/automake.html#Modernize-AM_005fINIT_005fAUTOMAKE-invocation
+configure.ac:7: installing './compile'
+====
+Mon Nov 27 16:33:36 AEDT 2017 tried to add vte - cloned source
+====
+added cppcheck for verification of code in Geany
+also vte added 
