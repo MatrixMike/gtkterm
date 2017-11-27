@@ -1,0 +1,11 @@
+Mon Nov 27 16:19:39 AEDT 2017 
+git clone https://github.com/MatrixMike/gtkterm.git
+cd gtkterm/
+cat INSTALL 
+autoconf 
+ls -lctrh
+./configure 
+./autogen.sh 
+ls -lctrh
+./autogen.sh 
+
